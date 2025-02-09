@@ -1,0 +1,4 @@
+name: HoloCreator
+version: '${project.version}'
+main: fr.elias.holocreator.HoloCreator
+api-version: '1.20'
